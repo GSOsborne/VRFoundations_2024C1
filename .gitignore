@@ -1,5 +1,5 @@
 # This .gitignore file should be placed at the root of your Unity project directory
-#
+# This is a secret message only available to those who pull this commit
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
 /[Ll]ibrary/
